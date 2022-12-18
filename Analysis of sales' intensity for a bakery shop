@@ -1,9 +1,6 @@
 import pandas as pd
-import numpy as np
-import plotly.express as pt
-import seaborn as sea
-import matplotlib as mpl
 
+import plotly.express as pt
 
 from dash import Dash, dcc, html, Input, Output, ctx, dash_table
 
